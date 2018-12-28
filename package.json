@@ -7,12 +7,16 @@
     "test": "mocha"
   },
   "author": "Chill Bro Dev",
-  "license": "ISC",
+  "license": "Apache License 2.0",
   "dependencies": {
     "rimraf": "^2.6.2",
     "unzipper": "^0.9.7"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chillbrodev/fb-archive-message-parser.git"
   }
 }
